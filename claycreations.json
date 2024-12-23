@@ -1,0 +1,50 @@
+{
+  "options": [
+    {
+      "label": "Bowl",
+      "value": "BW"
+    },
+    {
+      "label": "Mug",
+      "value": "MG"
+    },
+    {
+      "label": "Cup",
+      "value": "CP"
+    },
+    {
+      "label": "Plate",
+      "value": "PL"
+    },
+    {
+      "label": "Vase",
+      "value": "VS"
+    },
+    {
+      "label": "Paperweight",
+      "value": "PW"
+    },
+    {
+      "label": "Necklace",
+      "value": "NL"
+    },
+
+    {
+      "label": "Earrings",
+      "value": "ER"
+    },
+    {
+      "label": "Ring",
+      "value": "RG"
+    },
+    {
+      "label": "Bracelet",
+      "value": "BT"
+    },
+    {
+      "label": "Planter",
+      "value": "PR"
+    }
+  ],
+  "hasMore": false
+}
