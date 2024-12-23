@@ -44,7 +44,11 @@
     {
       "label": "Planter",
       "value": "PR"
-    }
+    },
+    {
+      "label": "Mortar & Pestle",
+      "value": "MP"
+    },
   ],
   "hasMore": false
 }
