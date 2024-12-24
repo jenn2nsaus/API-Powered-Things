@@ -56,6 +56,10 @@
     {
       "label": "Placard",
       "value": "PD"
+    },
+    {
+      "label": "Doorstop",
+      "value": "DS"
     }
   ],
   "hasMore": false
