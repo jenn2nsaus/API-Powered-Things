@@ -48,6 +48,10 @@
     {
       "label": "Mortar & Pestle",
       "value": "MP"
+    },
+    {
+      "label": "Pen Holder",
+      "value": "PH"
     }
   ],
   "hasMore": false
