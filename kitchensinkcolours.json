@@ -36,6 +36,10 @@
    {
       "label": "Neon Rainbow",
       "value": "NR"
+    },
+      {
+      "label": "Blue Lagoon",
+      "value": "BL"
     }
   ],
   "hasMore": false
