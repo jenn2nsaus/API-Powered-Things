@@ -40,6 +40,10 @@
       {
       "label": "Blue Lagoon",
       "value": "BL"
+    },
+          {
+      "label": "Static Grey",
+      "value": "SG"
     }
   ],
   "hasMore": false
