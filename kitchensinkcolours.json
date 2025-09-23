@@ -1,50 +1,6 @@
-{
-  "options": [
-    {
-      "label": "Black",
-      "value": "BO"
-    },
-    {
-      "label": "White",
-      "value": "WO"
-    },
-    {
-      "label": "Silver",
-      "value": "SO"
-    },
-    {
-      "label": "Gold",
-      "value": "GO"
-    },
-    {
-      "label": "Rose Gold",
-      "value": "RO"
-    },
-    {
-      "label": "Chrome",
-      "value": "CO"
-    },
-    {
-      "label": "Brass",
-      "value": "BS"
-    },
-
-    {
-      "label": "Copper",
-      "value": "CP"
-    },
-   {
-      "label": "Neon Rainbow",
-      "value": "NR"
-    },
-      {
-      "label": "Blue Lagoon",
-      "value": "BL"
-    },
-          {
-      "label": "Static Grey",
-      "value": "SG"
-    }
-  ],
-  "hasMore": false
-}
+[
+  {
+    "label": "Next Step",
+    "value": "NS"
+  }
+]
