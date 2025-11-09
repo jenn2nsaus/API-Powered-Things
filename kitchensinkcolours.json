@@ -66,5 +66,9 @@
   {
     "label": "Paper Test",
     "value": "PT"
+  },
+  {
+    "label": "",
+    "value": "XX"
   }
 ]
